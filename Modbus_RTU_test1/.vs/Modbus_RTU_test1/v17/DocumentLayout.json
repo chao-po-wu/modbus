@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\david\\Desktop\\program\\C#\\Modbus\\modbus\\Modbus_RTU_test1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC9F366D-BBA4-4021-BAC3-D03BF51D6E51}|Modbus_RTU_test1\\Modbus_RTU_test1.csproj|c:\\users\\david\\desktop\\program\\c#\\modbus\\modbus\\modbus_rtu_test1\\modbus_rtu_test1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC9F366D-BBA4-4021-BAC3-D03BF51D6E51}|Modbus_RTU_test1\\Modbus_RTU_test1.csproj|solutionrelative:modbus_rtu_test1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\david\\Desktop\\program\\C#\\Modbus\\modbus\\Modbus_RTU_test1\\Modbus_RTU_test1\\Program.cs",
+              "RelativeDocumentMoniker": "Modbus_RTU_test1\\Program.cs",
+              "ToolTip": "C:\\Users\\david\\Desktop\\program\\C#\\Modbus\\modbus\\Modbus_RTU_test1\\Modbus_RTU_test1\\Program.cs",
+              "RelativeToolTip": "Modbus_RTU_test1\\Program.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAAwBoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T12:33:15.423Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
