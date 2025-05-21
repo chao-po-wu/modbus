@@ -1,2 +1,2 @@
 # modbus
-第一次modbus測試
+modbus RTU/TCP練習
