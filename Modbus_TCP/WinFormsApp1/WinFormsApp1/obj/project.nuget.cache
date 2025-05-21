@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "meWHgKJ7I44qA5sIVA4apigwe+gB4HRrhuXA3839xwu7yvpR5nKP0A7zxxqozwaFVxM/eLHDpguIO41nZxs8PA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\david\\Desktop\\program\\C#\\Modbus\\modbus\\Modbus_TCP\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\david\\.nuget\\packages\\nmodbus\\3.0.81\\nmodbus.3.0.81.nupkg.sha512"
+  ],
+  "logs": []
+}
