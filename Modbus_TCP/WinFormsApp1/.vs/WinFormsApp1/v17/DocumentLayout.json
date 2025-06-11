@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\david\\Desktop\\program\\C#\\Modbus\\modbus\\Modbus_TCP\\WinFormsApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{819B34A1-D798-4190-BA4A-156B4CFBFECB}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\david\\desktop\\program\\c#\\modbus\\modbus\\modbus_tcp\\winformsapp1\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{819B34A1-D798-4190-BA4A-156B4CFBFECB}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{819B34A1-D798-4190-BA4A-156B4CFBFECB}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\david\\desktop\\program\\c#\\modbus\\modbus\\modbus_tcp\\winformsapp1\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{819B34A1-D798-4190-BA4A-156B4CFBFECB}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{819B34A1-D798-4190-BA4A-156B4CFBFECB}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\david\\Desktop\\program\\C#\\Modbus\\modbus\\Modbus_TCP\\WinFormsApp1\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{819B34A1-D798-4190-BA4A-156B4CFBFECB}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{819B34A1-D798-4190-BA4A-156B4CFBFECB}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\david\\Desktop\\program\\C#\\Modbus\\modbus\\Modbus_TCP\\WinFormsApp1\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{819B34A1-D798-4190-BA4A-156B4CFBFECB}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +18,31 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs [Design]",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\u8A2D\u8A08]",
               "DocumentMoniker": "C:\\Users\\david\\Desktop\\program\\C#\\Modbus\\modbus\\Modbus_TCP\\WinFormsApp1\\WinFormsApp1\\Form1.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\Form1.cs",
-              "ToolTip": "C:\\Users\\david\\Desktop\\program\\C#\\Modbus\\modbus\\Modbus_TCP\\WinFormsApp1\\WinFormsApp1\\Form1.cs [Design]",
-              "RelativeToolTip": "WinFormsApp1\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\david\\Desktop\\program\\C#\\Modbus\\modbus\\Modbus_TCP\\WinFormsApp1\\WinFormsApp1\\Form1.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "WinFormsApp1\\Form1.cs [\u8A2D\u8A08]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-09T03:17:35.923Z",
-              "EditorCaption": " [Design]"
+              "EditorCaption": " [\u8A2D\u8A08]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\david\\Desktop\\program\\C#\\Modbus\\modbus\\Modbus_TCP\\WinFormsApp1\\WinFormsApp1\\Form1.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\Form1.cs",
               "ToolTip": "C:\\Users\\david\\Desktop\\program\\C#\\Modbus\\modbus\\Modbus_TCP\\WinFormsApp1\\WinFormsApp1\\Form1.cs",
               "RelativeToolTip": "WinFormsApp1\\Form1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAzAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T02:01:47.419Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-09T02:01:47.419Z"
             }
           ]
         }
